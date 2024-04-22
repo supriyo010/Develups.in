@@ -1,8 +1,8 @@
 import React from "react";
 import "./about.css";
-import box1 from "../../assets/box1.png";
-import box2 from "../../assets/box2.png";
-import box3 from "../../assets/box3.png";
+import box1 from "../../assets/jonasleeo6eltkwz5biunsplash-1-1@2x.png";
+import box2 from "../../assets/jonasleeo6eltkwz5biunsplash-1-2@2x.png";
+import box3 from "../../assets/jonasleeo6eltkwz5biunsplash-1-6@2x.png";
 import Carousel from "react-multi-carousel";
 // import "react-multi-carousel/lib/styles.css";
 import "./carousal.css";
@@ -48,8 +48,7 @@ const About = () => {
                 <img src={box2} alt="" />
                 <h3>Football</h3>
                 <p>
-                  Dive into the world of football with SportOn, where you can
-                  connect with fellow enthusiasts, organize matches.
+                  ####
                 </p>
               </div>
 
@@ -57,8 +56,7 @@ const About = () => {
                 <img src={box3} alt="" />
                 <h3>Basketball</h3>
                 <p>
-                  Elevate your basketball journey with SportOn. Join players
-                  from around the world to dribble, shoot, and score.
+                 #####
                 </p>
               </div>
 
@@ -66,8 +64,7 @@ const About = () => {
                 <img src={box1} alt="" />
                 <h3>Volleyball</h3>
                 <p>
-                  SportOn brings volleyball enthusiasts together, enabling you
-                  to spike and serve in games across the globe.
+       #####
                 </p>
               </div>
 
@@ -75,8 +72,7 @@ const About = () => {
                 <img src={box1} alt="" />
                 <h3>Badminton</h3>
                 <p>
-                  Swing into the world of badminton with SportOn. Connect with
-                  players at all levels, participate in exciting matches
+               #####
                 </p>
               </div>
             </Carousel>

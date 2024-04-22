@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./header.css";
-import logo from "../../assets/logo.png";
+import logo from "../../assets/logo1.png";
 import { Link } from "react-router-dom";
 import { auth } from "../../firebase";
 import { getAuth, signOut } from "firebase/auth";

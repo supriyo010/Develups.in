@@ -44,7 +44,7 @@
   content: "";
   height: 0.1rem;
   width: 0;
-  background: #00b695;
+  background: #9B66D3;
   position: absolute;
   left: 0;
   bottom: -0.5rem;
@@ -57,7 +57,7 @@
   content: "";
   height: 0.1rem;
   width: 100%;
-  background: #00b695;
+  background: #9B66D3;
   position: absolute;
   left: 0;
   bottom: -0.5rem;
@@ -72,7 +72,8 @@
   color: white;
 }
 .header-logo img {
-  height: 40px;
+  height: 100px;
+  width: 100px;
   cursor: pointer;
   margin-top: 10px;
 }
@@ -83,7 +84,7 @@
   font-weight: bold;
   text-transform: uppercase;
   border-radius: 10px;
-  border: 2px solid #00b695;
+  border: 2px solid #9B66D3;
   cursor: pointer;
   transition: 0.2s ease-in;
   color: white;
@@ -91,7 +92,7 @@
 }
 .logout-btn {
   background: transparent;
-  background: #00b695;
+  background: #9B66D3;
   border: none;
   padding: 6px 10px;
   font-size: 12px;

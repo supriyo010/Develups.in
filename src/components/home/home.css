@@ -27,7 +27,7 @@
   width: 150px;
   height: 450px;
   transform: skew(23deg);
-  background: #00b696;
+  background: #9B66D3;
   position: absolute;
   top: 16%;
   left: 27%;
@@ -62,7 +62,7 @@
   background: transparent;
   border: none;
   outline: none;
-  background: #00b696;
+  background: #9B66D3;
   padding: 8px 25px;
   display: flex;
   align-items: center;
@@ -94,7 +94,7 @@
   row-gap: 1rem;
   right: 0;
   top: 40%;
-  background: #00b696;
+  background: #9B66D3;
   padding: 20px 10px;
   position: fixed;
   border-radius: 20px 0 0 20px;

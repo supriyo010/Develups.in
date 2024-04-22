@@ -11,36 +11,34 @@ const Goal = () => {
           <div className="goal-data">
             <h2>Our Goal</h2>
             <p>
-              The goal of SportOn is to create a dynamic and inclusive global
-              platform that caters to athletes from different countries,
-              fostering a sense of community and collaboration. The project aims
-              to provide a comprehensive ecosystem where athletes can not only
-              choose and participate in their favorite sports such as football,
-              basketball, volleyball, and badminton but also organize and engage
-              in sports events worldwide.
+            Welcome to Develups, a leading SAAS-based company specializing in delivering exceptional custom website development and application development services. At Develups, we are passionate about helping businesses harness the power of digital technology to achieve their goals and drive growth.
+
+ 
+
+
+
+ 
+
+
             </p>
 
             <p>
-              SportOn's overarching objective is to enable athletes to track
-              their personal growth and development within their chosen sports.
-              The platform will facilitate seamless connections between
-              like-minded individuals, encouraging the exchange of ideas,
-              strategies, and experiences. By emphasizing inclusivity, SportOn
-              seeks to break down geographical barriers, allowing athletes from
-              diverse backgrounds to come together, compete, and collectively
-              celebrate their passion for sports.
+            As your trusted technology partner, we take pride in crafting tailor-made solutions that align with your unique requirements and objectives. Our team of highly skilled professionals combines expertise with innovation to deliver high-performing websites and cutting-edge applications that captivate your audience and elevate your brand presence.
             </p>
             <p>
-              Furthermore, the project aims to enhance the overall sporting
-              experience by integrating features that promote fair play, healthy
-              competition, and skill improvement. With an emphasis on
-              user-friendly interfaces and robust tracking mechanisms, SportOn
-              strives to be a go-to platform for athletes seeking not only a
-              competitive edge but also a supportive and global community to
-              share their athletic journey. Ultimately, SportOn aims to redefine
-              the way athletes connect, compete, and thrive in their respective
-              sports, creating a lasting impact on the world of sports
-              networking and development.
+            With our custom website development services, we transform your ideas into stunning, user-friendly websites that not only reflect your brand identity but also provide seamless navigation and engaging user experiences. Our websites are built with precision and optimized for speed, security, and search engine visibility, ensuring maximum impact and reach.
+
+ 
+
+In the realm of application development, we excel at creating dynamic and intuitive solutions that empower your business processes and enhance customer interactions. Whether it's a mobile app or a web application, our experienced developers employ the latest technologies and best practices to deliver robust, scalable, and user-centric applications that drive efficiency and growth.
+
+ 
+
+At Develups, we pride ourselves on our customer-centric approach, focusing on understanding your unique needs and providing personalized attention throughout every stage of the development process. We believe in building long-lasting partnerships, and our dedicated support team ensures a seamless experience, offering ongoing maintenance and technical assistance whenever you need it.
+
+ 
+
+Join us on this digital journey as we transform your ideas into powerful digital solutions. Connect with us to discover how Develups can elevate your brand, engage your audience, and propel your business toward success.
             </p>
           </div>
           <div className="goal-img">

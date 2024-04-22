@@ -36,10 +36,7 @@ const Home = () => {
             <div className="home-data">
               <h1>{userName ? `Welcome ${userName}` : "Join Us Now!"}</h1>
               <p>
-                SportOn unites athletes from diverse nations, fostering a global
-                community to participate, organize, and compete in various
-                sports events, providing a platform to track individual and
-                collective athletic growth.
+              Elevating your vision with tailor-made Digital Solutions.
               </p>
               <Link to="/signup">
                 <button className={userName ? "logout-hide" : "home-btn"}>
