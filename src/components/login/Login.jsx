@@ -6,7 +6,8 @@ import { signInWithEmailAndPassword } from "firebase/auth";
 import { auth } from "../../firebase";
 import Footer from "../footer/Footer";
 import Header from "../header/Header";
-import CommonHeader from "../commonHeader/commonHeader";
+import CommonHeader from "../commonHeader/CommonHeader";
+
 
 const Login = () => {
   const navigate = useNavigate();
@@ -45,7 +46,7 @@ const Login = () => {
   return (
 
     <>
-    <CommonHeader/>
+ <CommonHeader/>
 
     <div className="login">
       <div className="login-content">
