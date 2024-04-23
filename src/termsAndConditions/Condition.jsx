@@ -5,7 +5,8 @@ import Footer from "../components/footer/Footer";
 import { useNavigate } from "react-router-dom";
 import logo from "../assets/logo.png"
 import { Link, useLocation } from "react-router-dom";
-import CommonHeader from "../components/commonHeader/commonHeader";
+import CommonHeader from "../components/commonHeader/CommonHeader";
+
 
 const Condition = () => {
   const navigate = useNavigate();
@@ -23,7 +24,7 @@ const Condition = () => {
 
   return (
     <>
-    <CommonHeader/>
+<CommonHeader/>
       <div className="terms">
         <div className="terms-container container">
           <div className="terms-box">
