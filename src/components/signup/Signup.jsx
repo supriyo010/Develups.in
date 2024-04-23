@@ -5,8 +5,7 @@ import { createUserWithEmailAndPassword, updateProfile } from "firebase/auth";
 import { auth } from "../../firebase";
 // import Header from "../header/Header";
 import Footer from "../footer/Footer";
-import CommonHeader from "../commonHeader/commonHeader";
-
+import CommonHeader from "../commonHeader/CommonHeader";
 const Signup = () => {
   const navigate = useNavigate();
   const [values, setValues] = useState({

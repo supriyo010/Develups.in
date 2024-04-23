@@ -46,7 +46,7 @@ const About = () => {
             <Carousel responsive={responsive} infinite={true}>
               <div className="home-box1 boxi">
                 <img src={box2} alt="" />
-                <h3>Football</h3>
+                <h3></h3>
                 <p>
                   ####
                 </p>
@@ -54,7 +54,7 @@ const About = () => {
 
               <div className="home-box1 boxi">
                 <img src={box3} alt="" />
-                <h3>Basketball</h3>
+                <h3></h3>
                 <p>
                  #####
                 </p>
@@ -62,7 +62,7 @@ const About = () => {
 
               <div className="home-box1 boxi">
                 <img src={box1} alt="" />
-                <h3>Volleyball</h3>
+                <h3></h3>
                 <p>
        #####
                 </p>
@@ -70,7 +70,7 @@ const About = () => {
 
               <div className="home-box1 boxi">
                 <img src={box1} alt="" />
-                <h3>Badminton</h3>
+                <h3></h3>
                 <p>
                #####
                 </p>
