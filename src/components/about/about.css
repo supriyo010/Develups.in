@@ -7,11 +7,15 @@
 }
 .about-data{
     width: 400px;
+    color: black
+    ;
 }
 .about-data h2{
     font-size: 40px;
     line-height: 40px;
     padding-bottom: 4rem;
+    color: #936bbd
+    ;
 }
 .about-data p{
     margin-bottom: 1.5rem;

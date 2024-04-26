@@ -9,6 +9,9 @@ const Goal = () => {
       <div className="goal-container container">
         <div className="goal-content">
           <div className="goal-data">
+          <>
+         .
+          </>
             <h2>Our Goal</h2>
             <p>
             Welcome to Develups, a leading SAAS-based company specializing in delivering exceptional custom website development and application development services. At Develups, we are passionate about helping businesses harness the power of digital technology to achieve their goals and drive growth.
@@ -34,7 +37,7 @@ In the realm of application development, we excel at creating dynamic and intuit
 
  
 
-At Develups, we pride ourselves on our customer-centric approach, focusing on understanding your unique needs and providing personalized attention throughout every stage of the development process. We believe in building long-lasting partnerships, and our dedicated support team ensures a seamless experience, offering ongoing maintenance and technical assistance whenever you need it.
+
 
  
 

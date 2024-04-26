@@ -4,7 +4,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(76deg, #b8ab20 0%,#f3eeb7 100%);
+    background: linear-gradient(76deg, hsl(55, 70%, 42%) 0%,#f3eeb7 100%);
 }
 .goal-content{
     display: flex;
@@ -26,9 +26,12 @@
 .goal-data h2{
     font-size: 40px;
     margin-bottom: 1rem;
+    color: #936bbd
+    ;
 }
 .goal-data p{
     margin-bottom: 1rem;
+    color: black;
 }
 .goal-man{
     position: absolute;
