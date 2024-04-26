@@ -4,7 +4,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(76deg, rgba(0,182,150,1) 0%, rgba(12,204,153,1) 100%);
+    background: linear-gradient(76deg, #b8ab20 0%,#f3eeb7 100%);
 }
 .goal-content{
     display: flex;
