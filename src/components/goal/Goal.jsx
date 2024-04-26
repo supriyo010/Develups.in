@@ -1,6 +1,6 @@
 import React from "react";
 import "./goal.css";
-import device from "../../assets/device.png";
+import device from "../../assets/luo.png";
 import man from "../../assets/man.png";
 
 const Goal = () => {

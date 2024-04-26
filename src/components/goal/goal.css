@@ -16,9 +16,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 2% ;
 }
 .goal-img img{
     height: 400px;
+    border-radius: 11.5% ;
+
 }
 .goal-data h2{
     font-size: 40px;
